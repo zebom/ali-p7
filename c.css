@@ -1,0 +1,21 @@
+#outer-div{
+	background-color: maroon;
+	height: 100px;
+
+}
+
+#inner-div{
+	background-color: red;
+	height: 50px;
+	color: white;
+	line-height: 50px;
+
+}
+.sammy{
+	width: 150px;
+	height: 150px;
+	background-color: darkred;
+	border-style: dashed;
+
+
+}
